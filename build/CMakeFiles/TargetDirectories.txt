@@ -1,0 +1,3 @@
+/usr/src/webserver/crow_intro/build/CMakeFiles/rebuild_cache.dir
+/usr/src/webserver/crow_intro/build/CMakeFiles/crow_intro.dir
+/usr/src/webserver/crow_intro/build/CMakeFiles/edit_cache.dir
